@@ -1,0 +1,12 @@
+# Swift Package Manager build artifacts
+.build/
+
+# Build output
+USBChime.app/
+
+# macOS
+.DS_Store
+
+# Editor/OS junk
+*.swp
+*~
