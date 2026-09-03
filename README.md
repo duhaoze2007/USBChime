@@ -13,7 +13,7 @@ Play custom sounds when USB devices connect or disconnect on your Mac — just l
 ## Features / 功能
 
 - Plays a **connect chime** and a **disconnect chime** the moment a USB device is plugged in or removed
-- 9 built-in sounds including authentic **Windows-style connect/disconnect** tones
+- 9 built-in sounds, including the **original Windows 10 connect/disconnect** sounds
 - **Custom audio files** (WAV, MP3, AIFF, M4A) for either event
 - Per-event volume slider and master on/off switch
 - **Ignore HID devices** (keyboard, mouse, trackpad, gamepad) — optional
@@ -27,7 +27,7 @@ Play custom sounds when USB devices connect or disconnect on your Mac — just l
 ---
 
 - 插入或拔出 USB 设备时立即播放**连接音**与**断开音**
-- 内置 9 款音效，包含原汁原味的 **Windows 风格连接/断开音**
+- 内置 9 款音效，包含 **Windows 10 原装连接/断开音**
 - 支持**自定义音频文件**（WAV、MP3、AIFF、M4A）分别设置连接音与断开音
 - 音量滑块与总开关，独立控制
 - **忽略 HID 输入设备**（键盘、鼠标、触控板、游戏手柄）——可选
